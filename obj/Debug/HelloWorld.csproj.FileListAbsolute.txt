@@ -1,0 +1,16 @@
+C:\Users\linmm\Desktop\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\linmm\Desktop\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\linmm\Desktop\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\linmm\Desktop\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\linmm\Desktop\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\linmm\Desktop\HelloWorld\obj\Debug\MainWindow.g.cs
+C:\Users\linmm\Desktop\HelloWorld\obj\Debug\App.g.cs
+C:\Users\linmm\Desktop\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.cache
+C:\Users\linmm\Desktop\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.lref
+C:\Users\linmm\Desktop\HelloWorld\obj\Debug\MainWindow.baml
+C:\Users\linmm\Desktop\HelloWorld\obj\Debug\HelloWorld.g.resources
+C:\Users\linmm\Desktop\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\linmm\Desktop\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\linmm\Desktop\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\linmm\Desktop\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\linmm\Desktop\HelloWorld\obj\Debug\HelloWorld.pdb
